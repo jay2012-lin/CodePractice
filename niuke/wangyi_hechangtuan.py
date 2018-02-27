@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# https://www.nowcoder.com/ta/2017test
 n = int(raw_input())
 a = raw_input().strip().split()
 # print a  # ['7', '4', '7']
